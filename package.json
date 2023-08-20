@@ -1,0 +1,19 @@
+{
+  "name": "csbs_tut",
+  "version": "1.0.0",
+  "description": "This is  node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiderajsk/Git_tut.git"
+  },
+  "author": "Saksham Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiderajsk/Git_tut/issues"
+  },
+  "homepage": "https://github.com/Hiderajsk/Git_tut#readme"
+}
