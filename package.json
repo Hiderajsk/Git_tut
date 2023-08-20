@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hiderajsk/Git_tut/issues"
   },
-  "homepage": "https://github.com/Hiderajsk/Git_tut#readme"
+  "homepage": "https://github.com/Hiderajsk/Git_tut#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
